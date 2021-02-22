@@ -1,6 +1,3 @@
-% Tema 3 LFA
-% Macarie Razvan Cristian 332CB
-
 # Generare de parser si lexer cu Antlr4  
 
 Pentru a genera parserul si lexerul pentru expresii regulate am folosit Antlr4.   
